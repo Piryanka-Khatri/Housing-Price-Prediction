@@ -1,2 +1,3 @@
 Housing Price Prediction
-https://github.com/user-attachments/assets/cdc31e7e-b36a-4b65-a644-308fbbbaac78
+![Housing price prediction](https://github.com/user-attachments/assets/32003c54-9e67-4147-a28a-2224e1bb848c)
+
